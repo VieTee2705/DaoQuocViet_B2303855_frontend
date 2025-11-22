@@ -89,14 +89,5 @@ export default {
 </script>
 
 <style scoped>
-label {
-  display: block;
-  margin-top: 10px;
-}
-
-.error-feedback {
-  color: red;
-  font-size: 0.875rem;
-  display: block;
-}
+@import "@/assets/form.css";
 </style>
